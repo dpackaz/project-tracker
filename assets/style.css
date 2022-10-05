@@ -1,0 +1,17 @@
+.custom {
+    width: 80%;
+    background-color: black;
+    font-size: x-large;
+}
+
+.custom-jumbotron {
+    background-color: red;
+}
+
+* {
+    color: red;
+}
+
+h1 {
+    font-family: serif;
+}
